@@ -4,3 +4,4 @@
 | SEMANA | COMPLETADO 
 --- | :---: |
 `Semana 1` | ✅
+`Semana 2` | ✅
